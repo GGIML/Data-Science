@@ -1,0 +1,4 @@
+mlflow==1.6.0
+scikit-learn==0.21.3
+pandas
+google-cloud-storage==1.25.0

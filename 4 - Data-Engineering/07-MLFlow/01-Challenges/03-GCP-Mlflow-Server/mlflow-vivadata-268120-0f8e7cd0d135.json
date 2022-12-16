@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mlflow-vivadata-268120",
+  "private_key_id": "0f8e7cd0d135b12fea20e43461240950faef0723",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAUKICQOuLf5i7\nmkEn6VV+ozk96rl6vYR5q0dkfbE5OrHZSbCzy8myKMD+RyixHlbIT+IP4LL+CKFr\n//Hs35gr+J3qOI2D6/DgXk7WQSafgOW0jjHfKiM6pyUSuSEaV3XKZ56vNiNHah3q\nv7qJoEuJBL9+sjRaxmJYavlokMFVl9yIeisXQVMQ0KX3BkI3F/WBZLMOa2PFmRwc\nGYrbPiec9X4B5cQ8BVD/+2Atj5DO7iFG85Zb6mRb8CUXZHiqXk2Nexhxy5GBP9nG\nq15Z57EaoYhpFHT1JKt7rO6qyaRtaDe0ndAo7F1n/XEA5VrRfNz1TDe4uKh5Uc8/\n+3uX0DUDAgMBAAECggEABitQAc8qqdnuVgOibXEAa285qdvQFrjiTrOI4cIKdQcw\np1jEJgW2iFQ4WgUsWqovfH4w2/OIVQ/aex1wbvnT5tfd26KeyjQ/u42AQpfqcO7F\n758pcxA7UGlbjhiJkE/CmTtDuDkos+TFOupARflHaF4nn8fVrXJ0ZdkLUShmRfmV\nPMZBMs+VyyGticCPlGqs2xpgo23UesBeBNUvxehqdJSaN45DpEUxSqQinQBEdHvB\nK94PTmOGOs/OOfCXjhq7K5b/7vzuU3XsfK8x2J4B62xGb+agts70m7XMWxCdtqCP\nQrUowJeh9Cz7h8vI/Yc3IhaFikByo9uIEJnMET8g+QKBgQDlchN0HGKuN41wZ6ri\n+R2qjCy5fJMTaFd4vH7hV7xyu7OOrTi3L0GBlYFL1kJy0AdxGE0TNKMNajKydkvD\nhLWWq2uirCqWtIxdicdVNDNMe3/DCd1UsXm7RZzg86arZHwEzmSejh79rUXIp0dv\npeYk19YN57XqlY9Jp6QhIBl6lwKBgQDWkncJAQZt9xRJelHAnqwVaATSliGMkcH4\nd0iY0dzTuocf5cQ+i4GpXOiTFiDmYJ2rJ49GF6GyzHlqIuzFDgA7scdEqOhhKPjR\nr8IUISLFyCT+n2un0mGVFlAD3mPxiWWTeHVAVBanOzuHdWxNpMPQrPKyl1WEf8Qn\np3UbBToCdQKBgFBNeaOEn8DrrnPtxHBF0e0zvB97CxqaxSp7hkil5U2ehfxkgdoT\nDvEkeykopv758fDSGX+kR4DVb0LohiG627cM7dH0Qb+XFx1RsFMQvveArbl8RVtz\n9e/mMD7G58lKlOE1vx+DDDOqpibQ7P6VaJPyendJZnDgwVJ8+sOhMWmnAoGBAIsA\nELq1fkvITs0Wv1UPtRyc6NrexNcCKWzjIRVWhj5mzFg+iTWXPCTR+hwmrqNvHVSd\n6POYJXjlexXlkApLep0xGoyA+yDN4Po9aHWPza3gbQ7BiYULBYoGDUmkTIxQ3It+\n8j38+zvUZEjpKYLW5L8O+p306UJPXmvt0C/z39NtAoGALvN41hveltodCcD5xHZA\na2w48riDJ17VvEKvL0W7iFswieiM7UpgEtjvXNF0aDuDt65vangxx+H9QSs+hhUX\nXxILaWdrImiYq2FvYJjvMMd1Rg6/bcmBYwua3Dj37LN5a0ZKyQyDhfXoVWm6z3oP\nocc5LMGeGFE9rGO+vwivSfw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mlflow@mlflow-vivadata-268120.iam.gserviceaccount.com",
+  "client_id": "104576604995989887959",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mlflow%40mlflow-vivadata-268120.iam.gserviceaccount.com"
+}
