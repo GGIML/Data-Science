@@ -1,4 +1,0 @@
-artifact_location: file:///Users/cyril/Desktop/01-Mlflow/01-Challenges/01-Local-Mlflow-Server/mlruns/0
-experiment_id: '0'
-lifecycle_stage: active
-name: vivadata-experiment
